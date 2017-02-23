@@ -1,3 +1,4 @@
+
 ####Step 0 : Load the data in RStudio
 my_data = read.csv("titanic_original.csv")
 library(dplyr)
